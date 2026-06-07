@@ -36,4 +36,4 @@ Computer Programming Student | Linux Power User | Software Developer
 ---
 
 ## 🌐 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/burak-özdemir](https://www.linkedin.com/in/burak-özdemir) - 🌐 **Portfolio:** [florexdev.com.tr](https://florexdev.com.tr)
+- 💼 **LinkedIn:** [linkedin.com/in/florexdev](https://www.linkedin.com/in/florexdev) - 🌐 **My Website:** [florexdev.com.tr](https://florexdev.com.tr)
