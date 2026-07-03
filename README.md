@@ -25,11 +25,11 @@ Modern web teknolojileriyle hızlı, performanslı ve kullanıcı odaklı projel
 ## İstatistikler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=florexdev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlorexDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorexDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## İletişim
