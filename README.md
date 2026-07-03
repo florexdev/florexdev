@@ -3,38 +3,37 @@
 Frontend geliştirme, otomasyon sistemleri ve masaüstü yazılımlar üzerine çalışıyorum.
 Modern web teknolojileriyle hızlı, performanslı ve kullanıcı odaklı projeler geliştiriyorum.
 
-💻 **Odak alanlarım**
+## 💻 Odak Alanlarım
 
-* Frontend Development
-* TypeScript & Next.js
-* Python ile otomasyon ve scraping
-* C# ile masaüstü uygulamaları
-* Linux & sistem optimizasyonları
+*   **Frontend Development:** Modern ve dinamik arayüz tasarımları.
+*   **TypeScript & Next.js:** Güvenli, hızlı ve SEO dostu web uygulamaları.
+*   **Python ile Otomasyon:** Veri kazıma (scraping) ve iş akışı otomasyonları.
+*   **C# ile Masaüstü:** Performanslı ve kararlı Windows uygulamaları.
+*   **Linux & Sistem:** Sunucu yönetimi ve sistem optimizasyonları.
 
-## Teknolojiler
+## 🛠️ Teknolojiler
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![Next.js](https://shields.io)
+![Python](https://shields.io)
+![CSharp](https://shields.io)
+![Linux](https://shields.io)
 
-## İstatistikler
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlorexDev&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+## 📊 İstatistikler
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorexDev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlorexDev&show_icons=true&theme=tokyonight&hide_border=true" alt="FlorexDev GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorexDev&layout=compact&theme=tokyonight&hide_border=true" alt="FlorexDev Top Languages" />
 </p>
 
-## İletişim
+## 📬 İletişim
 
-📧 **Mail:** [bburakozdemir01@gmail.com](mailto:bburakozdemir01@gmail.com)
-💼 **LinkedIn:** linkedin.com/in/florexdev
-> Kod yazmak benim için sadece bir şeyleri çalıştırmak değil;
-> sağlam, sürdürülebilir ve verimli sistemler inşa etmek.
+*   📧 **E-posta:** [bburakozdemir01@gmail.com](mailto:bburakozdemir01@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/florexdev](https://linkedin.com)
+
+---
+
+> Kod yazmak benim için sadece bir şeyleri çalıştırmak değil; sağlam, sürdürülebilir ve verimli sistemler inşa etmek. 🚀
