@@ -13,21 +13,20 @@ Modern web teknolojileriyle hızlı, performanslı ve kullanıcı odaklı projel
 
 ## 🛠️ Teknolojiler
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Next.js](https://shields.io)
-![Python](https://shields.io)
-![CSharp](https://shields.io)
-![Linux](https://shields.io)
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Next.js](https://shields.io) ![Python](https://shields.io) ![CSharp](https://shields.io) ![Linux](https://shields.io)
 
 ## 📊 İstatistikler
 
-<p align="center">
-  <img src="https://vercel.app" height="180" alt="FlorexDev GitHub Stats" />
-  <img src="https://vercel.app" height="180" alt="FlorexDev Top Languages" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://vercel.app" height="180" alt="FlorexDev GitHub İstatistikleri" />
+    </td>
+    <td>
+      <img src="https://vercel.app" height="180" alt="FlorexDev En Çok Kullanılan Diller" />
+    </td>
+  </tr>
+</table>
 
 ## 📬 İletişim
 
