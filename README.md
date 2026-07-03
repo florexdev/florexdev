@@ -1,35 +1,36 @@
-# Merhaba, ben Burak (FlorexDev) 👋
+# Selam, ben Florex 👋
 
-Bilişim teknolojileri altyapılı bir **Frontend & Software Developer**'ım. Yazılım süreçlerinde sistemlerin kararlılığına, temiz kod mimarisine ve verimli otomasyon çözümlerine odaklanıyorum. 
+Frontend geliştirme, otomasyon sistemleri ve masaüstü yazılımlar üzerine çalışıyorum.
+Modern web teknolojileriyle hızlı, performanslı ve kullanıcı odaklı projeler geliştiriyorum.
 
----
+💻 **Odak alanlarım**
 
-### 🚀 Nelerle İlgileniyorum?
-* 💻 **Frontend & Web:** TypeScript ve modern web ekosistemi üzerinde performanslı, tip güvenli ve kullanıcı dostu arayüzler inşa etmek.
-* ⚙️ **Otomasyon & Scripting:** Python kullanarak anti-bot korumalarını aşan gelişmiş veri kazıma (web scraping) sistemleri ve süreç otomasyonları geliştirmek.
-* 🖥️ **Masaüstü & Sistem:** C# (.NET) ile kararlı masaüstü araçları üretmek ve Linux ekosistemi üzerinde optimizasyonlar (Interface Customization) yapmak.
+* Frontend Development
+* TypeScript & Next.js
+* Python ile otomasyon ve scraping
+* C# ile masaüstü uygulamaları
+* Linux & sistem optimizasyonları
 
----
+## Teknolojiler
 
-### 🛠️ Teknolojiler & Araçlar
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-* **Diller:** TypeScript, JavaScript, Python, C#, HTML5, CSS3
-* **Frameworks & Kütüphaneler:** Next.js, Tailwind CSS
-* **Sistem & Araçlar:** Linux Ekosistemi, Git & GitHub, Terminal Centric Workflow
+## İstatistikler
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florexdev\&show_icons=true\&theme=tokyonight)
 
-### 📂 Öne Çıkan Projelerim
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev\&layout=compact\&theme=tokyonight)
 
-* 🛠️ **[DevFlow](https://github.com/florexdev)** - Next.js, TS ve Tailwind ile geliştirilmiş, geliştiricilere özel üretkenlik ve yönetim paneli.
-* 📦 **[AutoVault](https://github.com/florexdev)** - Dosya organizasyonunu otomatikleştiren ve düzenli yedeklemeler alan Python tabanlı sistem aracı.
-* 🎯 **[PriceHunter](https://github.com/florexdev)** - E-ticaret platformlarından dinamik veri kazıyan anlık fiyat takip ve bildirim botu.
-* 💻 **[ScriptForge](https://github.com/florexdev)** - C# ve yerel depolama kullanan minimalist kod snippet yöneticisi.
+## İletişim
 
----
-
-### 📬 Bana Ulaşın
-
-* **Web & Portfolyo:** [florexdev.com.tr](https://florexdev.com.tr)
-* **LinkedIn:** [linkedin.com/in/florexdev](https://www.linkedin.com/in/florexdev/)
-* **E-posta:** bburakozdemir01@gmail.com
+📧 **Mail:** [bburakozdemir01@gmail.com](mailto:bburakozdemir01@gmail.com)
+💼 **LinkedIn:** linkedin.com/in/florexdev
+> Kod yazmak benim için sadece bir şeyleri çalıştırmak değil;
+> sağlam, sürdürülebilir ve verimli sistemler inşa etmek.
