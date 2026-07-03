@@ -1,38 +1,16 @@
-# Selam, ben Florex 👋
+# 💫 About Me:
+Selam, ben Burak Özdemir (Florex) 👋<br><br>Yazılım dünyasına meslek lisesinin Bilişim Teknolojileri bölümünde adım attım ve o günden beri sistemlerin kararlılığına, kodun okunabilirliğine ve son kullanıcının deneyimine odaklanıyorum. Şu anda Bilgisayar Programcılığı eğitimi alarak teorik altyapımı pratikle birleştirmeye devam ediyorum.<br><br>Web ön yüzünde TypeScript ve modern teknolojilerle hatasız, performanslı arayüzler kurarken; arka planda Python ve C# kullanarak iş süreçlerini otomatize eden veri kazıma (scraping) ve masaüstü yazılımları geliştiriyorum. Sadece kod yazmakla kalmayıp, Linux ekosistemini kurcalamaktan ve arayüz özelleştirmeleri (Interface Customization) yapmaktan keyif alıyorum.<br><br>Web arayüz geliştirme, verimlilik sağlayan yazılım otomasyonları ve özel freelance projeleriniz için benimle dilediğiniz zaman iletişime geçebilirsiniz.<br>
 
-Frontend geliştirme, otomasyon sistemleri ve masaüstü yazılımlar üzerine çalışıyorum.
-Modern web teknolojileriyle hızlı, performanslı ve kullanıcı odaklı projeler geliştiriyorum.
 
-## 💻 Odak Alanlarım
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/untitled.burak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/florexdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bburakozdemir01@gmail.com) 
 
-*   **Frontend Development:** Modern ve dinamik arayüz tasarımları.
-*   **TypeScript & Next.js:** Güvenli, hızlı ve SEO dostu web uygulamaları.
-*   **Python ile Otomasyon:** Veri kazıma (scraping) ve iş akışı otomasyonları.
-*   **C# ile Masaüstü:** Performanslı ve kararlı Windows uygulamaları.
-*   **Linux & Sistem:** Sunucu yönetimi ve sistem optimizasyonları.
-
-## 🛠️ Teknolojiler
-
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Next.js](https://shields.io) ![Python](https://shields.io) ![CSharp](https://shields.io) ![Linux](https://shields.io)
-
-## 📊 İstatistikler
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://vercel.app" height="180" alt="FlorexDev GitHub İstatistikleri" />
-    </td>
-    <td>
-      <img src="https://vercel.app" height="180" alt="FlorexDev En Çok Kullanılan Diller" />
-    </td>
-  </tr>
-</table>
-
-## 📬 İletişim
-
-*   📧 **E-posta:** [bburakozdemir01@gmail.com](mailto:bburakozdemir01@gmail.com)
-*   💼 **LinkedIn:** [linkedin.com/in/florexdev](https://linkedin.com)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=florexdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=florexdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=florexdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-> Kod yazmak benim için sadece bir şeyleri çalıştırmak değil; sağlam, sürdürülebilir ve verimli sistemler inşa etmek. 🚀
+[![](https://komarev.com/ghpvc/?username=florexdev&icon=0&color=0)](https://visitcount.itsvg.in)
