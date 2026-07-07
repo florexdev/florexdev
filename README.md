@@ -38,4 +38,4 @@ AuraBoard, React, TypeScript ve Vite ile geliştirilmiş premium ve yerel öncel
 
 ## Bana Destek Çıkabilirsin!
 
-<a href="https://www.buymeacoffee.com/https://kreosus.com/florexdev/about"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+<a href="https://kreosus.com/florexdev/about"><img src="https://res.cloudinary.com/kyoai1sv/image/upload/v1783446780/kreosus_vshy6h.jpg" height="50" width="210" alt="Buy Me A Coffee" /></a>
