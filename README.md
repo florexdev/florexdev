@@ -1,16 +1,49 @@
-# 💫 Hakkımda:
-Selam, ben Burak Özdemir (Florex) 👋<br><br>Yazılım dünyasına meslek lisesinin Bilişim Teknolojileri bölümünde adım attım ve o günden beri sistemlerin kararlılığına, kodun okunabilirliğine ve son kullanıcının deneyimine odaklanıyorum. Şu anda Bilgisayar Programcılığı eğitimi alarak teorik altyapımı pratikle birleştirmeye devam ediyorum.<br><br>Web ön yüzünde TypeScript ve modern teknolojilerle hatasız, performanslı arayüzler kurarken; arka planda Python ve C# kullanarak iş süreçlerini otomatize eden veri kazıma (scraping) ve masaüstü yazılımları geliştiriyorum. Sadece kod yazmakla kalmayıp, Linux ekosistemini kurcalamaktan ve arayüz özelleştirmeleri (Interface Customization) yapmaktan keyif alıyorum.<br><br>Web arayüz geliştirme, verimlilik sağlayan yazılım otomasyonları ve özel freelance projeleriniz için benimle dilediğiniz zaman iletişime geçebilirsiniz.<br>
+# Selam 👋, Ben Burak.
+### Frontend Developer
+
+Bilecik Şeyh Edebali Üniversitesi'nde Bilgisayar Programcılığı Öğrencisiyim.
+
+## 🌐 İletişim
+<p><a href="https://www.linkedin.com/in/florexdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="florexdev.com.tr" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/untitled.burak/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+##💻 Programlama Dilleri
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+</p>
+
+##🔧 Diğer araçlar
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 
 
-## 🌐 Sosyal:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/untitled.burak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/florexdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bburakozdemir01@gmail.com) 
+## Gurur Tablom
 
-# 💻 Teknoloji:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=florexdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=florexdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=florexdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### AuraBoard
 
----
-[![](https://komarev.com/ghpvc/?username=florexdev&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://res.cloudinary.com/kyoai1sv/image/upload/f_auto,q_auto/auraboard_vcgvhe" alt="AuraBoard" width="300"/>
+
+AuraBoard, React, TypeScript ve Vite ile geliştirilmiş premium ve yerel öncelikli (local-first) bir interaktif beyaz tahta uygulamasıdır. Tamamen tarayıcı üzerinde yerel olarak çalışır ve gelişmiş çizim araçları, çoklu tahta yönetimi, vektörel/raster varlık dışa aktarma seçenekleri ile OpenRouter API tarafından desteklenen derin yapay zekâ tasarım yetenekleri sunar.
+
+[Projeyi Gör](https://auraboard-ten.vercel.app/)
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=florexdev&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=florexdev&theme=dark" alt="GitHub Streak" />
+
+## Bana Destek Çıkabilirsin!
+
+<a href="https://www.buymeacoffee.com/https://kreosus.com/florexdev/about"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
