@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./README.en.md">🇬🇧 English</a>
+  <a href="https://github.com/florexdev/readme-en/blob/main/README.md">🇬🇧 English</a>
 </p>
 
 # Selam 👋, Ben Burak.
