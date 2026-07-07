@@ -1,41 +1,59 @@
+<p align="right">
+  <a href="./README.en.md">🇬🇧 English</a>
+</p>
+
 # Selam 👋, Ben Burak.
 ### Frontend Developer
 
 Bilecik Şeyh Edebali Üniversitesi'nde Bilgisayar Programcılığı Öğrencisiyim.
 
 ## 🌐 İletişim
-<p><a href="https://www.linkedin.com/in/florexdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="florexdev.com.tr" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/untitled.burak/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/florexdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://florexdev.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.instagram.com/untitled.burak/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ## 💻 Programlama Dilleri
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-## 🔧 Diğer araçlar
+## 🔧 Diğer Araçlar
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
-
-## Gurur Tablom
+## 🚀 Gurur Tablom
 
 ### AuraBoard
 
 <img src="https://res.cloudinary.com/kyoai1sv/image/upload/f_auto,q_auto/auraboard_vcgvhe" alt="AuraBoard" width="300"/>
 
-AuraBoard, React, TypeScript ve Vite ile geliştirilmiş premium ve yerel öncelikli (local-first) bir interaktif beyaz tahta uygulamasıdır. Tamamen tarayıcı üzerinde yerel olarak çalışır ve gelişmiş çizim araçları, çoklu tahta yönetimi, vektörel/raster varlık dışa aktarma seçenekleri ile OpenRouter API tarafından desteklenen derin yapay zekâ tasarım yetenekleri sunar.
+AuraBoard, React, TypeScript ve Vite ile geliştirilmiş premium ve yerel öncelikli (local-first) bir interaktif beyaz tahta uygulamasıdır. Tamamen tarayıcı üzerinde yerel olarak çalışır ve gelişmiş çizim araçları, çoklu tahta yönetimi, vektörel/raster dışa aktarma seçenekleri ile OpenRouter API tarafından desteklenen güçlü yapay zekâ tasarım yetenekleri sunar.
 
-[Projeyi Gör](https://auraboard-ten.vercel.app/)
+👉 **[Projeyi Gör](https://auraboard-ten.vercel.app/)**
 
-## Bana Destek Çıkabilirsin!
+## ❤️ Bana Destek Çıkabilirsin!
 
-<a href="https://kreosus.com/florexdev/about"><img src="https://res.cloudinary.com/kyoai1sv/image/upload/v1783446780/kreosus_vshy6h.jpg" height="50" width="210" alt="Buy Me A Coffee" /></a>
+<a href="https://kreosus.com/florexdev/about">
+  <img src="https://res.cloudinary.com/kyoai1sv/image/upload/v1783446780/kreosus_vshy6h.jpg" alt="Kreosus" width="210">
+</a>
