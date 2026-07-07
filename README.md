@@ -36,14 +36,6 @@ AuraBoard, React, TypeScript ve Vite ile geliştirilmiş premium ve yerel öncel
 
 [Projeyi Gör](https://auraboard-ten.vercel.app/)
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=florexdev&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=florexdev&theme=dark" alt="GitHub Streak" />
-
 ## Bana Destek Çıkabilirsin!
 
 <a href="https://www.buymeacoffee.com/https://kreosus.com/florexdev/about"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
