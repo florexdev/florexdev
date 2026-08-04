@@ -2,13 +2,11 @@
   <a href="https://github.com/florexdev/readme-en/blob/main/README.md">🇬🇧 English</a>
 </p>
 
-# Merhaba, ben Burak 👋
+# Merhaba 👋, Ben Burak
 
-### Frontend Developer
+### Bilgisayar Programcılığı Öğrencisi • Frontend Geliştirici
 
-Bilecik Şeyh Edebali Üniversitesi Bilgisayar Programcılığı bölümünde öğrenim görüyorum.
-
-Web teknolojileriyle modern ve kullanıcı odaklı arayüzler geliştirmeyi seviyorum. Kendimi sürekli geliştiriyor, yeni teknolojiler öğreniyor ve açık kaynak projelere katkıda bulunmaya çalışıyorum.
+Bilecik Şeyh Edebali Üniversitesi Bilgisayar Programcılığı bölümünde öğrenim görüyorum. Modern web teknolojileriyle kullanıcı odaklı arayüzler geliştirmeyi seviyorum. Boş zamanlarımda açık kaynak projelere katkıda bulunuyor, yeni teknolojiler öğreniyor ve kendi projelerimi geliştiriyorum.
 
 ---
 
@@ -30,7 +28,7 @@ Web teknolojileriyle modern ve kullanıcı odaklı arayüzler geliştirmeyi sevi
 
 ## 💻 Programlama Dilleri
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -40,9 +38,9 @@ Web teknolojileriyle modern ve kullanıcı odaklı arayüzler geliştirmeyi sevi
 
 ---
 
-## 🛠️ Teknolojiler ve Araçlar
+## 🛠️ Araçlar ve Teknolojiler
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
