@@ -25,13 +25,13 @@ Frontend Developer • Computer Programming Student • Open Source Enthusiast
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase" />
 </p>
 
 ### Languages
@@ -43,7 +43,7 @@ Frontend Developer • Computer Programming Student • Open Source Enthusiast
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
