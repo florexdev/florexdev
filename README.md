@@ -40,19 +40,3 @@ Bilecik Şeyh Edebali Üniversitesi'nde Bilgisayar Programcılığı Öğrencisi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
-## 🚀 Gurur Tablom
-
-### AuraBoard
-
-<img src="https://res.cloudinary.com/kyoai1sv/image/upload/f_auto,q_auto/auraboard_vcgvhe" alt="AuraBoard" width="300"/>
-
-AuraBoard, React, TypeScript ve Vite ile geliştirilmiş premium ve yerel öncelikli (local-first) bir interaktif beyaz tahta uygulamasıdır. Tamamen tarayıcı üzerinde yerel olarak çalışır ve gelişmiş çizim araçları, çoklu tahta yönetimi, vektörel/raster dışa aktarma seçenekleri ile OpenRouter API tarafından desteklenen güçlü yapay zekâ tasarım yetenekleri sunar.
-
-👉 **[Projeyi Gör](https://auraboard-ten.vercel.app/)**
-
-## ❤️ Bana Destek Çıkabilirsin!
-
-<a href="https://kreosus.com/florexdev/about">
-  <img src="https://res.cloudinary.com/kyoai1sv/image/upload/v1783446780/kreosus_vshy6h.jpg" alt="Kreosus" width="210">
-</a>
