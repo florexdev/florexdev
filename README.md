@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Burak;Frontend+Developer;Building+beautiful+and+interactive+experiences." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Burak;Frontend+Developer;Building+beautiful+and+interactive+experiences." />
 </p>
 
 <h1 align="center">Florex</h1>
@@ -24,31 +24,31 @@ Frontend Developer • Computer Programming Student • Open Source Enthusiast
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
 </p>
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python" />
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🌸 Featured Projects
+## 🌸 Featured Project
 
 ### 🌺 Bloom
 
@@ -64,37 +64,22 @@ A short psychological pixel-art adventure inspired by the fictional **Hanahaki D
 ## 📊 GitHub Stats
 
 <p align="center">
-
-![florexdev's GitHub Stats](https://readme-stats-github.pages.dev/api?username=florexdev&theme=dark)
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="48%" src="https://readme-stats-github.pages.dev/api?username=florexdev&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-<p>
-
-<a href="https://github.com/florexdev">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/florexdev">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
+<p align="left">
+  <a href="https://github.com/florexdev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-> *"Some feelings refuse to stay buried."*
-
+  <i>"Some feelings refuse to stay buried."</i>
 </p>
