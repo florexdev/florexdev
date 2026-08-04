@@ -1,71 +1,102 @@
-<p align="right">
-  <a href="https://github.com/florexdev/readme-en/blob/main/README.md">🇬🇧 English</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Burak;Frontend+Developer;Building+beautiful+and+interactive+experiences." />
 </p>
 
-# Merhaba, ben Burak 👋
+<h1 align="center">Florex</h1>
 
-### Frontend Developer • Bilgisayar Programcılığı Öğrencisi
-
-Kullanıcı deneyimini ön planda tutan, sade ve işlevsel arayüzler geliştirmeyi seviyorum.
-
-Şu anda **Bilecik Şeyh Edebali Üniversitesi Bilgisayar Programcılığı** bölümünde öğrenim görüyorum. Boş zamanlarımda web projeleri geliştiriyor, pixel art ile ilgileniyor ve küçük hikâye odaklı oyunlar tasarlıyorum.
+<p align="center">
+Frontend Developer • Computer Programming Student • Open Source Enthusiast
+</p>
 
 ---
 
-## 🚀 Hakkımda
+## 👋 About Me
 
-- 🎓 Bilgisayar Programcılığı öğrencisi
-- 💻 Frontend geliştirme ile ilgileniyorum
-- 🎨 Temiz ve modern kullanıcı arayüzleri tasarlamayı seviyorum
-- 🎮 Pixel art ve hikâye odaklı oyun projeleri geliştiriyorum
-- 🌱 Sürekli yeni teknolojiler öğrenmeye çalışıyorum
+- 🎓 Computer Programming student at **Bilecik Şeyh Edebali University**
+- 💻 Passionate about building modern web applications
+- 🎨 Interested in UI/UX, animations and clean interfaces
+- 🎮 Currently developing **Bloom**, a psychological pixel-art adventure
+- 🌱 Always learning something new
 
 ---
 
-## 🌐 İletişim
+## 🚀 Tech Stack
+
+### Frontend
 
 <p>
-  <a href="https://www.linkedin.com/in/florexdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://florexdev.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/untitled.burak/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
----
-
-## 💻 Teknolojiler
-
-### Diller
+### Backend & Database
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" />
 </p>
 
-### Araçlar
+### Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,python" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
 ---
 
-## 📊 GitHub
+## 🌸 Featured Projects
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=florexdev)](https://www.readmecodegen.com/custom-github-card-generator)
+### 🌺 Bloom
+
+A short psychological pixel-art adventure inspired by the fictional **Hanahaki Disease**.
+
+- Pixel Art
+- Unity
+- Story-driven gameplay
+- Psychological atmosphere
 
 ---
 
-> *"Kod yazmak benim için sadece çalışan bir şey üretmek değil; kullanması keyifli bir deneyim tasarlamak."*
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=florexdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=florexdev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p>
+
+<a href="https://github.com/florexdev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/florexdev">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Some feelings refuse to stay buried."*
+
+</p>
