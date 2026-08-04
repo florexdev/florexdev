@@ -1,26 +1,26 @@
 <p align="right">
-<a href="https://github.com/florexdev/readme-en">English</a>
+<a href="https://github.com/florexdev">Türkçe</a> |
 </p>
 
-<h1 align="center">Merhaba 👋 Ben Burak</h1>
+<h1 align="center">Hi 👋 I'm Burak</h1>
 
 <p align="center">
-Frontend Developer • Bilgisayar Programcılığı Öğrencisi
+Frontend Developer • Computer Programming Student
 </p>
 
 ---
 
-## 👋 Hakkımda
+## 👋 About Me
 
-- 🎓 **Bilecik Şeyh Edebali Üniversitesi** Bilgisayar Programcılığı öğrencisiyim.
-- 💻 Modern web uygulamaları geliştirmeyi seviyorum.
-- 🎨 Arayüz tasarımı, kullanıcı deneyimi ve animasyonlarla ilgileniyorum.
-- 🎮 Şu anda **Bloom** adlı psikolojik bir macera oyunu geliştiriyorum.
-- 🌱 Sürekli yeni teknolojiler öğrenmeye çalışıyorum.
+- 🎓 I'm a **Computer Programming** student at **Bilecik Şeyh Edebali University**.
+- 💻 I enjoy building modern web applications.
+- 🎨 I'm interested in UI design, user experience, and animations.
+- 🎮 I'm currently developing a psychological adventure game called **Bloom**.
+- 🌱 I'm always learning new technologies and improving my skills.
 
 ---
 
-## 🚀 Teknolojiler
+## 🚀 Technologies
 
 ### Frontend
 
@@ -28,19 +28,19 @@ Frontend Developer • Bilgisayar Programcılığı Öğrencisi
   <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
 </p>
 
-### Backend & Veritabanı
+### Backend & Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
 </p>
 
-### Programlama Dilleri
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python" />
 </p>
 
-### Araçlar
+### Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -48,20 +48,20 @@ Frontend Developer • Bilgisayar Programcılığı Öğrencisi
 
 ---
 
-## 🌸 Öne Çıkan Proje
+## 🌸 Featured Project
 
 ### 🌺 Bloom
 
-Kurgusal **Hanahaki Disease**'den ilham alan kısa bir psikolojik piksel sanat macera oyunu.
+A short psychological pixel art adventure inspired by the fictional **Hanahaki Disease**.
 
 - Pixel Art
 - Unity
-- Hikâye odaklı oynanış
-- Psikolojik atmosfer
+- Story-driven gameplay
+- Psychological atmosphere
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://readme-stats-github.pages.dev/api?username=florexdev&theme=dark" />
@@ -69,29 +69,29 @@ Kurgusal **Hanahaki Disease**'den ilham alan kısa bir psikolojik piksel sanat m
 
 ---
 
-## 📫 Bana Ulaş
+## 📫 Contact
 
 <p align="left">
   <a href="https://github.com/florexdev">
     <img src="https://skillicons.dev/icons?i=github"/>
-    </a>
-    <a href="https://www.linkedin.com/in/florexdev/">
+  </a>
+  <a href="https://www.linkedin.com/in/florexdev/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-      </a>
+  </a>
   <a href="https://www.instagram.com/untitled.burak">
     <img src="https://skillicons.dev/icons?i=instagram"/>
-      </a>
-<a href="https://www.threads.com/@florexdev">
-  <img
-    src="https://img.magnific.com/ucretsiz-vektor/beyaz-arka-planda-izole-edilmis-threads-uygulama-logosu-ikonu_1017-45264.jpg?semt=ais_hybrid&w=740&q=80"
-    style="width:48px;height:48px;border-radius:8px;"
-    alt="Threads"
-  />
-</a>
+  </a>
+  <a href="https://www.threads.com/@florexdev">
+    <img
+      src="https://img.magnific.com/ucretsiz-vektor/beyaz-arka-planda-izole-edilmis-threads-uygulama-logosu-ikonu_1017-45264.jpg?semt=ais_hybrid&w=740&q=80"
+      style="width:48px;height:48px;border-radius:8px;"
+      alt="Threads"
+    />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Bazı duygular gömülü kalmayı reddeder."</i>
+  <i>"If it works on the first try, something is probably wrong."</i>
 </p>
