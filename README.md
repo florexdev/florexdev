@@ -40,3 +40,5 @@ Bilecik Şeyh Edebali Üniversitesi'nde Bilgisayar Programcılığı Öğrencisi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=florexdev)](https://www.readmecodegen.com/custom-github-card-generator)
