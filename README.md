@@ -2,11 +2,11 @@
   <a href="https://github.com/florexdev/readme-en/blob/main/README.md">🇬🇧 English</a>
 </p>
 
-# Merhaba 👋, Ben Burak
+# Merhaba, ben Burak. 👋
 
-### Bilgisayar Programcılığı Öğrencisi • Frontend Geliştirici
+Frontend geliştirme ile ilgileniyorum ve Bilecik Şeyh Edebali Üniversitesi Bilgisayar Programcılığı bölümünde öğrenim görüyorum.
 
-Bilecik Şeyh Edebali Üniversitesi Bilgisayar Programcılığı bölümünde öğrenim görüyorum. Modern web teknolojileriyle kullanıcı odaklı arayüzler geliştirmeyi seviyorum. Boş zamanlarımda açık kaynak projelere katkıda bulunuyor, yeni teknolojiler öğreniyor ve kendi projelerimi geliştiriyorum.
+Kullanıcı deneyimini ön planda tutan, sade ve modern arayüzler geliştirmeyi seviyorum. Bunun yanında zaman zaman oyun geliştirme, açık kaynak projeler ve yaratıcı yan projeler üzerinde çalışıyorum.
 
 ---
 
@@ -14,42 +14,104 @@ Bilecik Şeyh Edebali Üniversitesi Bilgisayar Programcılığı bölümünde ö
 
 <p>
   <a href="https://www.linkedin.com/in/florexdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://florexdev.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?style=flat-square&logo=Firefox&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/untitled.burak/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Programlama Dilleri
+## 💻 Teknolojiler
+
+### Diller
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+</p>
+
+### Araçlar
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 </p>
 
 ---
 
-## 🛠️ Araçlar ve Teknolojiler
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub İstatistikleri
+## 📊 GitHub
 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=florexdev)](https://www.readmecodegen.com/custom-github-card-generator)
+
+---
+
+> "Her proje, yeni bir şey öğrenmek için iyi bir bahanedir."<p align="right">
+  <a href="https://github.com/florexdev/readme-en/blob/main/README.md">🇬🇧 English</a>
+</p>
+
+# Merhaba, ben Burak. 👋
+
+Frontend geliştirme ile ilgileniyorum ve Bilecik Şeyh Edebali Üniversitesi Bilgisayar Programcılığı bölümünde öğrenim görüyorum.
+
+Kullanıcı deneyimini ön planda tutan, sade ve modern arayüzler geliştirmeyi seviyorum. Bunun yanında zaman zaman oyun geliştirme, açık kaynak projeler ve yaratıcı yan projeler üzerinde çalışıyorum.
+
+---
+
+## 🌐 İletişim
+
+<p>
+  <a href="https://www.linkedin.com/in/florexdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://florexdev.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?style=flat-square&logo=Firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/untitled.burak/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Teknolojiler
+
+### Diller
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+</p>
+
+### Araçlar
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+</p>
+
+---
+
+## 📊 GitHub
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=florexdev)](https://www.readmecodegen.com/custom-github-card-generator)
+
+---
+
+> "Her proje, yeni bir şey öğrenmek için iyi bir bahanedir."
