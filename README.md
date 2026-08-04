@@ -65,7 +65,6 @@ A short psychological pixel-art adventure inspired by the fictional **Hanahaki D
 
 <p align="center">
   <img width="48%" src="https://readme-stats-github.pages.dev/api?username=florexdev&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florexdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
