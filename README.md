@@ -82,11 +82,10 @@ Kurgusal **Hanahaki Disease**'den ilham alan kısa bir psikolojik piksel sanat m
   <a href="https://www.instagram.com/untitled.burak">
     <img src="https://skillicons.dev/icons?i=instagram"/>
       </a>
-  <a href="https://www.threads.com/@florexdev">
+<a href="https://www.threads.com/@florexdev">
   <img
-    src="https://img.magnific.com/ucretsiz-vektor/beyaz-arka-planda-izole-edilmis-threads-uygulama-logosu-ikonu_1017-45264.jpg?semt=ais_hybrid&w=740&q=80"
-    width="48"
-    height="48"
+    src="..."
+    style="width:48px;height:48px;border-radius:8px;"
     alt="Threads"
   />
 </a>
