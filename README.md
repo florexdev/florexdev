@@ -95,5 +95,3 @@ Kurgusal **Hanahaki Disease**'den ilham alan kısa bir psikolojik piksel sanat m
 <p align="center">
   <i>"İlk seferde çalışırsa, bir şeyler yanlış demektir."</i>
 </p>
-
-ingilizcesini yaz
