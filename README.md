@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋 I'm Burak</h1>
+<p align="right">
+  <a href="https://github.com/florexdev">🇹🇷 Türkçe</a> |
+  <a href="https://github.com/florexdev/readme-en">🇬🇧 English</a>
+</p>
+
+<h1 align="center">Merhaba 👋 Ben Burak</h1>
 
 <p align="center">
-Frontend Developer • Computer Programming Student
+Frontend Developer • Bilgisayar Programcılığı Öğrencisi
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Hakkımda
 
-- 🎓 Computer Programming student at **Bilecik Şeyh Edebali University**
-- 💻 Passionate about building modern web applications
-- 🎨 Interested in UI/UX, animations and clean interfaces
-- 🎮 Currently developing **Bloom**, a psychological adventure
-- 🌱 Always learning something new
+- 🎓 **Bilecik Şeyh Edebali Üniversitesi** Bilgisayar Programcılığı öğrencisiyim.
+- 💻 Modern web uygulamaları geliştirmeyi seviyorum.
+- 🎨 Arayüz tasarımı, kullanıcı deneyimi ve animasyonlarla ilgileniyorum.
+- 🎮 Şu anda **Bloom** adlı psikolojik bir macera oyunu geliştiriyorum.
+- 🌱 Sürekli yeni teknolojiler öğrenmeye çalışıyorum.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Teknolojiler
 
 ### Frontend
 
@@ -24,19 +29,19 @@ Frontend Developer • Computer Programming Student
   <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
 </p>
 
-### Backend & Database
+### Backend & Veritabanı
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
 </p>
 
-### Languages
+### Programlama Dilleri
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python" />
 </p>
 
-### Tools
+### Araçlar
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -44,20 +49,20 @@ Frontend Developer • Computer Programming Student
 
 ---
 
-## 🌸 Featured Project
+## 🌸 Öne Çıkan Proje
 
 ### 🌺 Bloom
 
-A short psychological pixel-art adventure inspired by the fictional **Hanahaki Disease**.
+Kurgusal **Hanahaki Disease**'den ilham alan kısa bir psikolojik piksel sanat macera oyunu.
 
 - Pixel Art
 - Unity
-- Story-driven gameplay
-- Psychological atmosphere
+- Hikâye odaklı oynanış
+- Psikolojik atmosfer
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 
 <p align="center">
   <img width="48%" src="https://readme-stats-github.pages.dev/api?username=florexdev&theme=dark" />
@@ -65,7 +70,7 @@ A short psychological pixel-art adventure inspired by the fictional **Hanahaki D
 
 ---
 
-## 📫 Connect with Me
+## 📫 Bana Ulaş
 
 <p align="left">
   <a href="https://github.com/florexdev">
@@ -76,5 +81,5 @@ A short psychological pixel-art adventure inspired by the fictional **Hanahaki D
 ---
 
 <p align="center">
-  <i>"Some feelings refuse to stay buried."</i>
+  <i>"Bazı duygular gömülü kalmayı reddeder."</i>
 </p>
