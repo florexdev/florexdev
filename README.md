@@ -79,6 +79,12 @@ Kurgusal **Hanahaki Disease**'den ilham alan kısa bir psikolojik piksel sanat m
     <a href="https://www.linkedin.com/in/florexdev/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
       </a>
+  <a href="https://www.instagram.com/untitled.burak">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+      </a>
+  <a href="https://www.threads.com/@florexdev">
+    <img src="https://skillicons.dev/icons?i=threads"/>
+      </a>
   </a>
   </a>
 </p>
