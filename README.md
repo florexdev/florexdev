@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://github.com/florexdev/readme-en">🇬🇧 English</a>
+<a href="https://github.com/florexdev/readme-en">English</a>
 </p>
 
 <h1 align="center">Merhaba 👋 Ben Burak</h1>
