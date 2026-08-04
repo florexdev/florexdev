@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Burak;Frontend+Developer;Building+beautiful+and+interactive+experiences." />
-</p>
-
-<h1 align="center">Florex</h1>
+<h1 align="center">Hi 👋 I'm Burak</h1>
 
 <p align="center">
-Frontend Developer • Computer Programming Student • Open Source Enthusiast
+Frontend Developer • Computer Programming Student
 </p>
 
 ---
@@ -15,7 +11,7 @@ Frontend Developer • Computer Programming Student • Open Source Enthusiast
 - 🎓 Computer Programming student at **Bilecik Şeyh Edebali University**
 - 💻 Passionate about building modern web applications
 - 🎨 Interested in UI/UX, animations and clean interfaces
-- 🎮 Currently developing **Bloom**, a psychological pixel-art adventure
+- 🎮 Currently developing **Bloom**, a psychological adventure
 - 🌱 Always learning something new
 
 ---
