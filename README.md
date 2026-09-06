@@ -48,18 +48,6 @@ Frontend Developer • Bilgisayar Programcılığı Öğrencisi
 
 ---
 
-## 🌸 Öne Çıkan Proje
-
-### 🌺 Bloom
-
-Kurgusal **Hanahaki Disease**'den ilham alan kısa bir psikolojik piksel sanat macera oyunu.
-
-- Pixel Art
-- Unity
-- Hikâye odaklı oynanış
-- Psikolojik atmosfer
-
----
 
 ## 📊 GitHub İstatistikleri
 
